@@ -1,0 +1,40 @@
+{
+  "roleGroup": [
+    {
+      "Admin": {
+        "users": ["johnson", "joshua"],
+        "permissions": [
+          "To Create",
+          "To Save",
+          "To Submit",
+          "To Approve",
+          "To Authorize"
+        ]
+      }
+    },
+    {
+      "Developer": {
+        "users": ["annieLynci"],
+        "permissions": ["To Create", "To Save", "To Submit", "To Approve"]
+      }
+    },
+    {
+      "Employee": {
+        "users": ["jayaraj"],
+        "permissions": ["To Create", "To Save", "To Submit"]
+      }
+    },
+    {
+      "User": {
+        "users": [],
+        "permissions": ["To Create", "To Save"]
+      }
+    },
+    {
+      "External_User": {
+        "users": [],
+        "permissions": ["To Create"]
+      }
+    }
+  ]
+}

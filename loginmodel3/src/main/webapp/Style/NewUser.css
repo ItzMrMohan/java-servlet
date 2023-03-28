@@ -1,0 +1,183 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 13-Sep-2022, 5:31:54 pm
+    Author     : mohan
+*/
+    
+#newuser{
+    position: relative;
+    width: 20%;
+    height: 80%;
+    left: 43%;
+    bottom: 10%;
+}
+#firstname{
+    
+}
+#fname1{
+    right: 4%;
+    position: relative;
+}
+#fname2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#lastname{
+    
+}
+#lname1{
+    right: 4%;
+    position: relative;
+}
+#lname2{
+    position: relative;
+    width: 62%;
+    font-size: 100%;
+}
+#gender{
+    
+}
+#gname{
+    right: 4%;
+    position: relative;
+}
+#male{
+    
+}
+#female{
+    
+}
+#others{
+    
+}
+#birthdate{
+    
+}
+#birth1{
+    right: 4%;
+    position: relative;
+}
+#birth2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#cNumber{
+    
+}
+#phone1{
+    right: 4%;
+    position: relative;
+}
+#phone2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#eMail{
+    
+}
+#mail1{
+    right: 4%;
+    position: relative;
+}
+#mail2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#doorno{
+    
+}
+#door1{
+    right: 4%;
+    position: relative;
+}
+#door2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#street{
+    
+}
+#street1{
+    right: 4%;
+    position: relative;
+}
+#street2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#villtown{
+    
+}
+#vill1{
+    right: 4%;
+    position: relative;
+}
+#vill2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#district{
+    
+}
+#dis1{
+    right: 4%;
+    position: relative;
+}
+#dis2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#pincode{
+    
+}
+#pin1{
+    right: 4%;
+    position: relative;
+}
+#pin2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#password1{
+    
+}
+#pass1{
+    right: 4%;
+    position: relative;
+}
+#pass2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#repassword1{
+    
+}
+#repass1{
+    right: 4%;
+    position: relative;
+}
+#repass2{
+    position: relative;
+    width: 61%;
+    font-size: 100%;
+}
+#button{
+    
+}
+#but1{
+    right: 4%;
+    position: relative;
+}

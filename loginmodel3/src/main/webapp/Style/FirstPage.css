@@ -1,0 +1,89 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 13-Sep-2022, 12:56:54 pm
+    Author     : mohan
+*/
+#bg{
+    position: initial;
+    background-image: url("Image/Login2.jpg");
+}
+#firstpage{
+    position: absolute;
+    bottom: 36%;
+    left: 67%;
+    height: 37%;
+    width: 26%;
+    background-image: url("../Image/LoginBG.jpg");
+    border-radius: 7%;
+}
+#username{
+    position: relative;
+    left: 22%;
+    top: 19%;
+}
+#password{
+    position: relative;
+    left: 22%;
+    top: 27%;
+}
+#button1{
+    position: relative;
+    left: 47%;
+    top: 37%;
+}
+#button2{
+    position: relative;
+    left: 25%;
+    top: 42%;
+}
+#namebox{
+    position: relative;
+    width: 45%;
+    right: 8%;
+    font-size: 100%;
+}
+#passbox{
+    position: relative;
+    width: 45%;
+    right: 8%;
+    font-size: 100%;
+}
+#loginbutton{
+    position: relative;
+    font-size: 120%;
+    left: 1%;
+    width: 20%;
+}
+#signupbutton{
+   position: relative;
+    font-size: 120%;
+    left: 1%;
+    width: 20%; 
+}
+#namelabel{
+    position: relative;
+    right: 12%;
+    font-size: 143%; 
+    color: rgb(4 81 254);
+    
+}
+#passlabel{
+    position: relative;
+    right: 12%;
+    font-size: 143%;
+    color: rgb(4 81 254);
+}
+#para{
+    position: relative;
+    top: 42%;
+    left: 22%;
+    
+}
+#notify{
+    position: relative;
+    font-size: 143%;
+    color: rgb(4 81 254);
+}
